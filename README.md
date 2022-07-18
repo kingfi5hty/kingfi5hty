@@ -3,10 +3,10 @@
 - Graduated from Grand Canyon University in 2020 with my BA in IT emphasis in Cybersecurity.
 
 🌱 Currently Working On 🌱
-  - Learning Linux (Comptia Linux) 
-  - Python 
-  - RE & Binary Exploitation 
-  - JS REACT. 
+   - Learning Linux (Comptia Linux) 
+   - Python 
+   - RE & Binary Exploitation 
+   - JS REACT. 
 
   
 
