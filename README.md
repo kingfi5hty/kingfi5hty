@@ -2,14 +2,17 @@
 - 👀 I’m interested in all things tech related & a IT One-Man-Show 
 - Graduated from Grand Canyon University in 2020 with my BA in IT emphasis in Cybersecurity.
 
-- 🌱 Currently Working On 🌱
-   - Learning Linux (Comptia Linux) 
-   - Python 
-   - RE & Binary Exploitation CTFs
-   - Developing a JS REACT website.
-   - Learning website hosting & virtualization using ProxMox. 
+- 🌱 Concepts Currently Learning 🌱
+   - Linux (Comptia Linux)  
+   - RE & Binary Exploitation
+   - Website development & web hosting
+   - Virtualization
 
-- Want-To's
+- 🌱 Tools Currently Learning 🌱
+   - Python
+   - JavaScript (React)
+
+- Want-To's (Projects)
    - Setup Code & CTF streams (Code/Reverse With Me)
    - Develop a daily driver application for myself
    - Host a full portfolio website that showcases accomplishments with programming and network security.
@@ -23,3 +26,4 @@
 kingfi5hty/kingfi5hty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
