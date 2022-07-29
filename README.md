@@ -11,6 +11,7 @@
 - 🌱 Tools Currently Learning 🌱
    - Python
    - JavaScript (React)
+   - Emacs
 
 - Want-To's (Projects)
    - Setup Code & CTF streams (Code/Reverse With Me)
