@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70C0C&width=450&height=100&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 - 👋 Hi, I’m @kingfi5hty
 - 👀 I’m interested in all things tech related & a IT One-Man-Show 
 - Graduated from Grand Canyon University in 2020 with my BA in IT emphasis in Cybersecurity.
