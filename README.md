@@ -22,7 +22,8 @@
 
 - Best Contact
    - kingfi5hty@gmail.com
-  
+
+  <script src="https://tryhackme.com/badge/1130491"></script>
 
 <!---
 kingfi5hty/kingfi5hty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
