@@ -2,25 +2,17 @@
 
 
 - 👋 Hi, I’m @kingfi5hty
-- 👀 I’m interested in all things tech related & a IT One-Man-Show 
+- 👀 I’m interested in all things tech related & a IT One-Man-Show.
 - Graduated from Grand Canyon University in 2020 with my BA in IT emphasis in Cybersecurity.
+- Currently pursuing a Masters in Cybersecurity from GCU.
 
-- 🌱 Concepts Currently Learning 🌱
-   - Linux (Comptia Linux)  
-   - RE & Binary Exploitation
-   - Website development & web hosting
-   - Virtualization
+- Certifications
+   - CompTia Security+
+   - ISC2 Certified in Cybersecurity (CC)
+   - Top 6% on TryHackMe
+ 
 
-- 🌱 Tools Currently Learning 🌱
-   - Python
-   - JavaScript (React)
-   - Emacs
-
-- Want-To's (Projects)
-   - Setup Code & CTF streams (Code/Reverse With Me)
-   - Develop a daily driver application for myself
-   - Host a full portfolio website that showcases accomplishments with programming and network security.
-   - Create a startup using learned skills.
+-Currently trying to fuse all the knowledge I have gained like some type of wizard creating a new spell.
 
 - Best Contact
    - kingfi5hty@gmail.com
